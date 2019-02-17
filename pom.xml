@@ -36,8 +36,8 @@
         </dependency>
        
   <dependency>
-    <groupId>com.mycompany</groupId>
-    <artifactId>domain</artifactId>
+    <groupId>sandeep</groupId>
+    <artifactId>sandeep</artifactId>
     <version>${project.version}</version>
     <classifier>sources</classifier>
     <scope>provided</scope>
