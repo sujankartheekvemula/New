@@ -77,9 +77,10 @@
                 <executions>
                     <execution>
                         <goals>
-                            <goal>package</goal>
+                            <goal>compile</goal>
                             <goal>generateAsync</goal>
                             <goal>test</goal>
+                            <goal>package</goal>
                         </goals>
                     </execution>
                 </executions>
